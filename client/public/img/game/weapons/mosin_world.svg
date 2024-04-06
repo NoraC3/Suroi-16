@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" width="166.7" height="30.3" viewBox="0 0 166.7 30.3">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #181616;
+        stroke-miterlimit: 15.12;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9, .cls-10, .cls-11 {
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-4, .cls-6, .cls-7, .cls-10 {
+        stroke: #181616;
+      }
+
+      .cls-2 {
+        stroke: #181716;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #716d69;
+      }
+
+      .cls-3, .cls-5 {
+        fill: #79391d;
+        stroke: #251109;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-12, .cls-13 {
+        fill-rule: evenodd;
+      }
+
+      .cls-6 {
+        fill: #4d4946;
+      }
+
+      .cls-7 {
+        fill: #3e3b38;
+      }
+
+      .cls-12 {
+        fill: #793a1d;
+      }
+
+      .cls-13 {
+        fill: #544e4e;
+      }
+
+      .cls-8 {
+        stroke: #251209;
+      }
+
+      .cls-8, .cls-9, .cls-10, .cls-11 {
+        fill: none;
+      }
+
+      .cls-9 {
+        stroke: #44403d;
+      }
+
+      .cls-11 {
+        stroke: #524e4b;
+      }
+    </style>
+  </defs>
+  <g id="g16">
+    <path id="rect16" class="cls-7" d="M154.4,5.3h9.1c.9,0,1.7,.8,1.7,1.7v2.4c0,.9-.8,1.7-1.7,1.7h-9.1c-.9,0-1.7-.8-1.7-1.7v-2.4c0-1,.7-1.7,1.7-1.7Z"/>
+    <path id="rect15" class="cls-12" d="M94,3.4h56.6c1.6,0,3,1.3,3,3v3.6c0,1.6-1.3,3-3,3h-56.6c-1.6,0-3-1.3-3-3v-3.6c.1-1.6,1.4-3,3-3Z"/>
+    <rect id="rect2" class="cls-3" x="31.6" y="3.1" width="14.5" height="10.1"/>
+    <path id="rect1" class="cls-5" d="M3.2,2.7H30.69c.56,0,1.01,.45,1.01,1.01V12.69c0,.56-.45,1.01-1.01,1.01H3.2c-.9,0-1.7-1.1-1.7-2.4V5.1c0-1.3,.7-2.4,1.7-2.4Z"/>
+    <rect id="rect3" class="cls-2" x="46.1" y="3.1" width="4.1" height="10.1"/>
+    <path id="path15" class="cls-9" d="M142.6,4.85l.16,6.56"/>
+    <path id="path12" class="cls-9" d="M98.6,4.78v6.71"/>
+    <path id="path13" class="cls-11" d="M95.8,4.78v6.71"/>
+    <path id="rect12" class="cls-8" d="M91.1,3.4h58.6c2.2,0,4,1.8,4,4v1.5c0,2.2-1.8,4-4,4h-58.6V3.4Z"/>
+    <path id="rect11" class="cls-13" d="M53.6,1.5h36.3c2.1,0,3.9,1.7,3.9,3.9v5.6c0,2.1-1.7,3.9-3.9,3.9H53.6c-2.1,0-3.9-1.7-3.9-3.9V5.4c.1-2.1,1.8-3.9,3.9-3.9Z"/>
+    <path id="rect5" class="cls-4" d="M58.38,7.44h8.43c.85,0,1.54,.69,1.54,1.54v5.66h-11.3v-5.87c0-.74,.6-1.33,1.33-1.33h0Z"/>
+    <path id="path9" class="cls-6" d="M59.8,15.7v7.4"/>
+    <ellipse id="path11" class="cls-1" cx="59.8" cy="26.1" rx="1.6" ry="2.7"/>
+    <path id="rect4" class="cls-10" d="M52.7,1.5h38.3c1.6,0,2.9,1.3,2.9,2.9v7.5c0,1.6-1.3,2.9-2.9,2.9H52.7c-1.6,0-2.9-1.3-2.9-2.9V4.4c0-1.6,1.3-2.9,2.9-2.9Z"/>
+  </g>
+</svg>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="386"
+   viewBox="0 0 83.017964 102.12916"
+   width="313.76868"
+   version="1.1"
+   id="svg16"
+   sodipodi:docname="porta_potty_ceiling.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <metadata
+     id="metadata11">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.6037371"
+     inkscape:cx="52.689438"
+     inkscape:cy="191.11611"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg16"
+     showgrid="false" />
+  <defs
+     id="defs20">
+    <pattern
+       patternTransform="matrix(0,-0.1584018,0.22993221,0,152.36459,234.98257)"
+       id="pattern1700"
+       xlink:href="#b"
+       inkscape:collect="always" />
+    <pattern
+       patternTransform="matrix(0,-0.1584018,0.22993221,0,157.07671,234.98257)"
+       id="pattern1698"
+       xlink:href="#b"
+       inkscape:collect="always" />
+    <pattern
+       xlink:href="#c"
+       id="b"
+       patternTransform="matrix(0 -.27438 .26458 0 156.73 256.38)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="120"
+       height="120"
+       patternTransform="translate(156.73 257.753) scale(.26458)"
+       id="c">
+      <path
+         fill="none"
+         stroke-width="3.78"
+         d="M0 0h120v120H0z"
+         id="path5" />
+      <path
+         fill="none"
+         stroke-width="3.78"
+         d="M0 0h120v120H0z"
+         id="path7" />
+      <path
+         fill="none"
+         stroke-width="3.78"
+         d="M0 0h120v120H0z"
+         id="path9" />
+      <path
+         fill="none"
+         stroke-width="3.78"
+         d="M0 0h120v120H0z"
+         id="path11" />
+      <path
+         fill="none"
+         stroke-width="3.78"
+         d="M0 0h120v120H0z"
+         id="path13" />
+      <path
+         fill="#864f1c"
+         stroke-width="14.173"
+         stroke-miterlimit="10"
+         d="M0 0h120v120H0z"
+         id="path15" />
+      <path
+         fill-opacity=".354"
+         stroke-width="7.542"
+         stroke-miterlimit="10"
+         d="M36 0h4v120h-4zm40 0h4v120h-4zm40 0h4v120h-4z"
+         id="path17" />
+    </pattern>
+    <clipPath
+       id="e">
+      <path
+         style="fill:url(#d);stroke-width:2.28600001"
+         inkscape:connector-curvature="0"
+         d="m 48.78,205.894 h 35.983 v 59.267 H 48.78 Z"
+         id="path20-4" />
+    </clipPath>
+    <pattern
+       xlink:href="#c"
+       id="pattern1673"
+       patternTransform="matrix(0 -.27438 .26458 0 156.73 256.38)" />
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="120"
+       height="120"
+       patternTransform="translate(156.73 257.753) scale(.26458)"
+       id="pattern1689">
+      <path
+         fill="none"
+         stroke-width="3.78"
+         d="M0 0h120v120H0z"
+         id="path1675" />
+      <path
+         fill="none"
+         stroke-width="3.78"
+         d="M0 0h120v120H0z"
+         id="path1677" />
+      <path
+         fill="none"
+         stroke-width="3.78"
+         d="M0 0h120v120H0z"
+         id="path1679" />
+      <path
+         fill="none"
+         stroke-width="3.78"
+         d="M0 0h120v120H0z"
+         id="path1681" />
+      <path
+         fill="none"
+         stroke-width="3.78"
+         d="M0 0h120v120H0z"
+         id="path1683" />
+      <path
+         fill="#864f1c"
+         stroke-width="14.173"
+         stroke-miterlimit="10"
+         d="M0 0h120v120H0z"
+         id="path1685" />
+      <path
+         fill-opacity=".354"
+         stroke-width="7.542"
+         stroke-miterlimit="10"
+         d="M36 0h4v120h-4zm40 0h4v120h-4zm40 0h4v120h-4z"
+         id="path1687" />
+    </pattern>
+    <clipPath
+       id="clipPath1693">
+      <path
+         style="fill:url(#d);stroke-width:2.28600001"
+         inkscape:connector-curvature="0"
+         d="m 48.78,205.894 h 35.983 v 59.267 H 48.78 Z"
+         id="path1691" />
+    </clipPath>
+  </defs>
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:url(#pattern1698);stroke:#191919;stroke-width:1.49949884"
+     clip-path="url(#e)"
+     d="m 48.78,205.894 h 35.983 v 59.267 H 48.78 Z"
+     transform="matrix(1.150691,0,0,1.7321834,-55.862322,-356.54674)"
+     id="path25" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill-opacity:0.19599998;stroke-width:1.00000358"
+     d="M 0.26838978,0.09943542 H 41.673703 V 102.76076 H 0.26838978 Z"
+     id="path27" />
+  <path
+     inkscape:connector-curvature="0"
+     style="fill:url(#pattern1700);stroke:#191919;stroke-width:1.49949884"
+     clip-path="url(#e)"
+     transform="matrix(1.150691,0,0,1.7321834,-14.457004,-356.54674)"
+     d="m 48.78,205.894 h 35.983 v 59.267 H 48.78 Z"
+     id="path29" />
+</svg>

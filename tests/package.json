@@ -1,0 +1,22 @@
+{
+  "name": "@suroi/tests",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "validateDefinitions": "node dist/tests/src/validateDefinitions.js -print-top -print-bottom",
+    "stressTest": "tsc && node --enable-source-maps dist/tests/src/stressTest.js"
+  },
+  "keywords": [],
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@types/node": "^20.11.30",
+    "@types/ws": "^8.5.10",
+    "typescript": "^5.4.3"
+  },
+  "dependencies": {
+    "@damienvesper/bit-buffer": "^1.0.1",
+    "ws": "^8.16.0"
+  }
+}

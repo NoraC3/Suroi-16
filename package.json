@@ -1,0 +1,43 @@
+{
+  "name": "suroi",
+  "version": "0.17.0",
+  "description": "An open-source 2D battle royale game inspired by surviv.io",
+  "private": true,
+  "scripts": {
+    "build": "pnpm -r build",
+    "build:client": "cd client && pnpm build",
+    "build:server": "cd server && pnpm build",
+    "start": "node --enable-source-maps server/dist/server/src/server.js",
+    "moderation": "node --enable-source-maps server/dist/server/src/moderation.js",
+    "warn": "pnpm moderation warn",
+    "ban": "pnpm moderation ban",
+    "unban": "pnpm moderation unban",
+    "dev": "pnpm -r dev",
+    "dev:client": "cd client && pnpm dev",
+    "dev:server": "cd server && pnpm dev",
+    "dev:test": "cd tests && pnpm stressTest",
+    "lint": "eslint . --fix --ext .js,.ts",
+    "lint:ci": "eslint . --max-warnings 0 --ext .js,.ts",
+    "validateDefinitions": "cd tests && tsc && pnpm validateDefinitions",
+    "full-reinstall": "rm -r node_modules pnpm-lock.yaml client/node_modules server/node_modules common/node_modules tests/node_modules && pnpm install"
+  },
+  "engines": {
+    "node": ">=18.8.0",
+    "pnpm": ">=8.0.0"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript"
+  ],
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^7.4.0",
+    "@typescript-eslint/parser": "^7.4.0",
+    "eslint": "^8.57.0",
+    "eslint-config-love": "^43.1.0",
+    "eslint-plugin-import": "^2.29.1",
+    "eslint-plugin-n": "^16.6.2",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "^5.4.3"
+  }
+}
