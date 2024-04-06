@@ -4,8 +4,6 @@
 </div>
 
 
-## Suroi16
-
 <div align="center">
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -18,24 +16,20 @@
 </div>
 
 ## About
-Suroi 16 is an open source game  inspired by the surviv.io, incorporating its assets. This project is still in progress.
-
-## How to Contribute:
-Join our discord server and contact one of the staff
-[suroi16 discord server.](https://discord.gg/JxHmKAhbmG)
+Suroi is an open-source 2D battle royale game inspired by [surviv.io](https://survivio.fandom.com/wiki/Surviv.io_Wiki). It is currently a work in progress.
 
 ## Play the game!
-[suroi.io](link soon...)
+[suroi.io](https://suroi.io)
 
 ## Join the Discord!
-[suroi16 discord server.](https://discord.gg/JxHmKAhbmG)
+[discord.suroi.io](https://discord.suroi.io)
 
 ## Installation and setup
 Start by installing [Node.js](https://nodejs.org) and [pnpm](https://pnpm.io).
 
-Next, [click here to download the repo](https://github.com/noraaaaaaaaaaaaaaaa/Suroi-16.git), or use the following command to clone it:
+Next, [click here to download the repo](https://github.com/HasangerGames/suroi/archive/refs/heads/master.zip), or use the following command to clone it:
 ```sh
-git clone https://github.com/noraaaaaaaaaaaaaaaa/Suroi-16.git
+git clone https://github.com/HasangerGames/suroi.git
 ```
 
 To install dependencies, open a terminal in the project root, and run this command:
