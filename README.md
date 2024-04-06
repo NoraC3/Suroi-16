@@ -1,3 +1,5 @@
+#Suroi16
+
 <div align="center">
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img src="https://img.shields.io/badge/typescript-%233178C6?style=for-the-badge&logo=typescript&logoColor=white">
@@ -10,7 +12,11 @@
 </div>
 
 ## About
-Suroi is an open-source 2D battle royale game inspired by [surviv.io](https://survivio.fandom.com/wiki/Surviv.io_Wiki). It is currently a work in progress.
+Suroi 16 is an open source game  inspired by the surviv.io, incorporating its assets. This project is still in progress.
+
+## How to Contribute:
+Join our discord server and contact one of the staff
+[suroi16 discord server.](https://discord.gg/JxHmKAhbmG)
 
 ## Play the game!
 [suroi.io](link soon...)
