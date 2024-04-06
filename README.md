@@ -27,9 +27,9 @@ Join our discord server and contact one of the staff
 ## Installation and setup
 Start by installing [Node.js](https://nodejs.org) and [pnpm](https://pnpm.io).
 
-Next, [click here to download the repo](https://github.com/HasangerGames/suroi/archive/refs/heads/master.zip), or use the following command to clone it:
+Next, [click here to download the repo](https://github.com/noraaaaaaaaaaaaaaaa/Suroi-16.git), or use the following command to clone it:
 ```sh
-git clone https://github.com/HasangerGames/suroi.git
+git clone https://github.com/noraaaaaaaaaaaaaaaa/Suroi-16.git
 ```
 
 To install dependencies, open a terminal in the project root, and run this command:
